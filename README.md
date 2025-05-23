@@ -9,16 +9,13 @@ Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenaza
 
 1. **Descarga manual del dataset CERT r4.2**
    - Coloca los archivos del dataset dentro de la carpeta `dataset/`.
-
-2. **Crear divisiones de sesiones**
-   - Sigue el guion del TFG para dividir los registros en sesiones de entrenamiento, validación y prueba (train/val/test) usando los scripts incluidos.
-
-3. **Instalación de dependencias**
+  
+2. **Instalación de dependencias**
    - Se recomienda usar un entorno virtual.
    ```bash
    pip install -r requirements.txt
 
-4. **Ejecución paso a paso**
+3. **Ejecución paso a paso**
   -Ejecuta los scripts en orden según el TFG:
 
 
