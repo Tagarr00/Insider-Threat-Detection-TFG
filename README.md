@@ -14,7 +14,7 @@ Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenaza
    - Se recomienda usar un entorno virtual.
 
 3. **Ejecución paso a paso**
-  -Ejecuta los scripts en orden según el TFG:
+   - Ejecuta los scripts en orden según el TFG
 
 
 📄 Licencia
