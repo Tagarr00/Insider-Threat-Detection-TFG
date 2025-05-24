@@ -12,8 +12,6 @@ Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenaza
   
 2. **Instalación de dependencias**
    - Se recomienda usar un entorno virtual.
-   ```bash
-   pip install -r requirements.txt
 
 3. **Ejecución paso a paso**
   -Ejecuta los scripts en orden según el TFG:
