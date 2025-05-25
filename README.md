@@ -14,10 +14,9 @@ Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenaza
    - Se recomienda usar un entorno virtual.
 
 3. **Ejecución paso a paso**
-   - Ejecuta los scripts en orden según el TFG
+   - Ejecuta los scripts en orden según el TFG.
 
 
-📄 Licencia
-Este proyecto ha sido desarrollado con fines académicos como parte de un Trabajo de Fin de Grado (TFG).
+📄Este proyecto ha sido desarrollado con fines académicos como parte de un Trabajo de Fin de Grado (TFG).
 Se permite su uso con fines educativos y de investigación.
 👨‍🎓 Autor: Alvaro Tagarro Mendiguchia
