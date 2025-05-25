@@ -8,7 +8,7 @@ Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenaza
 ## ⚙️ Instrucciones de uso
 
 1. **Descarga manual del dataset CERT r4.2**
-   - Coloca los archivos del dataset dentro de la carpeta `dataset/`.
+   - Coloca los archivos del dataset dentro de la carpeta `dataset/`
   
 2. **Instalación de dependencias**
    - Se recomienda usar un entorno virtual.
