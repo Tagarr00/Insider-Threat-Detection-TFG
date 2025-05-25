@@ -1,6 +1,6 @@
 # 🧠 Insider Threat Detection - TFG
 
-Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenazas internas mediante modelos no supervisados (Isolation Forest y Local Outlier Factor). El sistema analiza sesiones de usuario generadas a partir de logs de sistemas endpoint y aplica técnicas de procesamiento de lenguaje natural (NLP), detección de anomalías y explicabilidad (XAI).
+Este repositorio contiene el Trabajo de Fin de Grado sobre detección de amenazas insider mediante modelos no supervisados (Isolation Forest y Local Outlier Factor). El sistema analiza sesiones de usuario generadas a partir de logs de sistemas endpoint y aplica técnicas de procesamiento de lenguaje natural (NLP), detección de anomalías y explicabilidad (XAI).
 
 ---
 
